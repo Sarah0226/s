@@ -1,4 +1,5 @@
-# # -*- coding: UTF-8 -*-
+#Crawl 
+# -*- coding: UTF-8 -*-
 ##到蝦皮首頁搜尋iphone x，並抓前300個商品的銷售量以及shopid
 import io
 import logging
